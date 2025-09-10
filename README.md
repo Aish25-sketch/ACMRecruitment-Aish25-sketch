@@ -35,3 +35,9 @@ Each questline has its own folder. Inside each questline folder, tasks are organ
 
 **Github Username:**[Aish25-sketch](https://github.com/Aish25-sketch)
 
+
+## Skills
+- Python
+- C
+- HTML
+- Git
