@@ -1,4 +1,4 @@
-# My Project — change from feature/update-readme
+# My Project — merge line(resolved)
 
 This repository contains all my solutions for the **ACM Recruitment Challenges** 
 
