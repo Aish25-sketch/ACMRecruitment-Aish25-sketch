@@ -1,5 +1,0 @@
-| Iteration (i) | Value of SUM before | Operation Performed | Value of SUM after |
-| ------------- | ------------------- | ------------------- | ------------------ |
-| 1             | 0                   | SUM = 0 + 5         | 5                  |
-| 2             | 5                   | SUM = 5 + 5         | 10                 |
-| 3             | 10                  | SUM = 10 + 5        | 15                 |
