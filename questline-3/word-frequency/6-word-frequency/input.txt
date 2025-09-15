@@ -1,0 +1,1 @@
+This text is for testing the frequency.py code which counts the number of times a certain word is present
