@@ -1,0 +1,6 @@
+Original:
+The program allowed the second largest value to be the same as the largest when the array contained duplicates.
+For example, input [5, 5, 3] gave "Second largest: 5", which is incorrect.
+
+Fixed:
+I added a condition "and num != largest" in the elif statement to ensure the second largest is different from the largest.
