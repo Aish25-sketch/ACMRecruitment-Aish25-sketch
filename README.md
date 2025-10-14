@@ -18,13 +18,13 @@ Each questline has its own folder. Inside each questline folder, tasks are organ
 
 ## Progress Tracker
 -[x] Questline-1: Git and Version Control
--[ ] Questline-2: Linux and the Command Line
--[ ] Questline-3: Programming and Problem Solving
+-[x] Questline-2: Linux and the Command Line
+-[x] Questline-3: Programming and Problem Solving
 -[ ] Questline-4: Web Basics
 -[x] Questline-5: Binary Logic and Number Systems 
--[ ] Questline-6: Algorithms and Thinking
--[ ] Questline-7: Security and Logic
--[ ] Questline-8: Logic and Problem Solving
+-[x] Questline-6: Algorithms and Thinking
+-[x] Questline-7: Security and Logic
+-[x] Questline-8: Logic and Problem Solving
 
 ---
 
